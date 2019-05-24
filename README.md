@@ -22,9 +22,14 @@ Algunas preguntas/ problemas que motivaron el proyecto:
 - El uso de fake news en la política en los últimos años ha crecido de manera sustancial, Jair Bolsonaro se aprovecha de ellas tanta para ser victimario como para hacerse victima en un contexto de persecución política en contra de el, ¿Sigue siendo constante el uso de esa “herramienta” en su trayectoria política? 
 - ¿ Que información adicional acerca de las intervenciones presidenciales puede ser analizada a partir de la estadística descriptiva de los datos obtenidos ?
 
+
+ <img src="Tweets Bolsonaro.png">
+
+
+
   <img src="Word Cloud Discursos.png">
   
-    <img src="Tweets Bolsonaro.png">
+
 
 ## Métodos usados
 - API Twitter Archiver
