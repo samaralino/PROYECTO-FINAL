@@ -1,14 +1,14 @@
 # PROYECTO-FINAL
 Proyecto final de la clase de Métodos Computacionales para Políticas Públicas
 
-##Samara Lino Salamanca
+## Samara Lino Salamanca
 
-#Análisis de tweets y discursos de Jair Bolsonaro
-
-
+# Análisis de tweets y discursos de Jair Bolsonaro
 
 
-##Descripción y Motivacíon
+
+
+## Descripción y Motivacíon
 
 El presidente recién electo de la República Federativa de Brasil a lo largo de su campaña (y ahora electo) ha sido bastante criticado por su manera de expresarse,  ya sea por el uso de discursos extremistas o la difusión de fake news principalmente por redes sociales, que dado la coyuntura política brasileña permitió atraer a las clases populares facilitando su llegada a la presidencia en el 2019. 
 
@@ -22,7 +22,11 @@ Algunas preguntas/ problemas que motivaron el proyecto:
 - El uso de fake news en la política en los últimos años ha crecido de manera sustancial, Jair Bolsonaro se aprovecha de ellas tanta para ser victimario como para hacerse victima en un contexto de persecución política en contra de el, ¿Sigue siendo constante el uso de esa “herramienta” en su trayectoria política? 
 - ¿ Que información adicional acerca de las intervenciones presidenciales puede ser analizada a partir de la estadística descriptiva de los datos obtenidos ?
 
-##Métodos usados
+  <img src="Word Cloud Discursos.png">
+  
+    <img src="Tweets Bolsonaro.png">
+
+## Métodos usados
 - API Twitter Archiver
 Use esta API para bajar los tweets del presidente Jair Bolsonaro (@jairbolsonaro), utilice el método de PANDAS para guardar la infomración y poder realizar análisis de datos.
 
@@ -37,7 +41,7 @@ Se utlizaron códigos para analizar collocations, Lexical dispersión y palabras
 - Tableau
 La herramienta fue utlizada para gráficos en mapas.
 
-##Hallazgos encontrados
+## Hallazgos encontrados
 
 - Tweets: 234 | Días analizados: 47
 - Discursos: 63 | Días analizados: 135
