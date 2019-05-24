@@ -32,18 +32,24 @@ Algunas preguntas/ problemas que motivaron el proyecto:
 
 
 ## Métodos usados
-- API Twitter Archiver
+- API Twitter Archiver:
+
 Use esta API para bajar los tweets del presidente Jair Bolsonaro (@jairbolsonaro), utilice el método de PANDAS para guardar la infomración y poder realizar análisis de datos.
 
-- Gestión y almacenamiento de datos
-Tanto para los tweets como para la base de datos de los discursos, utilicé PANDAS, para lograr almacenar los datos, tanto de twwets como de discursos, luego se almaceno en un archivo 'Pickle'
-- Limpeza de datos
-Se realizo la limpieza de datos con base a metedologías aprendidas en clase y códigos creados por el profesor Santiago Matallana
+- Gestión y almacenamiento de datos:
 
-- Análisis de texto y gráficos
+Tanto para los tweets como para la base de datos de los discursos, utilicé PANDAS, para lograr almacenar los datos, tanto de twwets como de discursos, luego se almaceno en un archivo 'Pickle'.
+
+- Limpeza de datos:
+
+Se realizo la limpieza de datos con base a metedologías aprendidas en clase y códigos creados por el profesor Santiago Matallana.
+
+- Análisis de texto y gráficos:
+
 Se utlizaron códigos para analizar collocations, Lexical dispersión y palabras en contextos. Además de toda la librería de matplotlib para análisis gráficos.
 
-- Tableau
+- Tableau:
+
 La herramienta fue utlizada para gráficos en mapas.
 
 ## Hallazgos encontrados
